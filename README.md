@@ -1,1 +1,3 @@
-This is a simple probleme that just save phones number in a tree
+We want to know how many nodes there will be in a tree that contains a list of phones numbers.
+
+This is a mini TDD project that solve the problem.
