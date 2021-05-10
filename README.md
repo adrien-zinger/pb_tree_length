@@ -1,0 +1,1 @@
+This is a simple probleme that just save phones number in a tree
